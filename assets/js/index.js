@@ -1,3 +1,3 @@
-import EleFormDynamic from './EleFormDynamic'
+import EleFormDataEditor from "./EleFormDataEditor";
 
-export default EleFormDynamic
+export default EleFormDataEditor;
