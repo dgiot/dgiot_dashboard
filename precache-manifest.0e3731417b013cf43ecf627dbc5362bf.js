@@ -320,7 +320,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/fabric.js.gz"
   },
   {
-    "revision": "a930e0366291e1238d599d398b8579cb",
+    "revision": "5d215f2c188f0bb8d82908bbfda85aec",
     "url": "assets/js/flv.min.js"
   },
   {
@@ -784,11 +784,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "images/water/管道直.png"
   },
   {
-    "revision": "dfcd799cf80ba1d35d8cfed954963d9e",
+    "revision": "052800cdb8dcd697afd31a25a242be2d",
     "url": "index.html"
   },
   {
-    "revision": "92cb1d8e7bf1be013f6f10a9e89fff38",
+    "revision": "a1048ebbbd93364fa7cf9499e267d89c",
     "url": "manifest.json"
   },
   {
@@ -804,16 +804,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/css/app~1f98f4b9.7efc230f.css"
   },
   {
-    "revision": "32659e8138c41c49942a",
+    "revision": "e309dc1dadceacf45c51",
     "url": "static/css/app~3bbe1703.00d8b1a9.css"
   },
   {
-    "revision": "77fd5a78a996ab5c56a0",
+    "revision": "ff3f4a9db3e6a91a2642",
     "url": "static/css/app~5a11b65b.26118c85.css"
   },
   {
     "revision": "23b8d957b151adc91611",
     "url": "static/css/app~7ac4fe82.db24de53.css"
+  },
+  {
+    "revision": "a83661236037c793b43b",
+    "url": "static/css/chunk-045d750a.d9007caa.css"
   },
   {
     "revision": "3cd6225ec6cb4627e0c1",
@@ -830,10 +834,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "107982240a8c9f5e309c",
     "url": "static/css/chunk-54d3a154.3ee7e8c1.css"
-  },
-  {
-    "revision": "6e63442dc1ac27929800",
-    "url": "static/css/chunk-55b9c64a.ec50455a.css"
   },
   {
     "revision": "b8d0e88dcd7b59d2b086",
@@ -876,7 +876,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/css/dgiot-libs~d7ac9e7b.53ce9ab9.css"
   },
   {
-    "revision": "b8bd9c00a094a98235f5",
+    "revision": "694c132ab42d7f87a71a",
     "url": "static/css/dgiot-libs~f6e880b5.43ba7a2f.css"
   },
   {
@@ -960,20 +960,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/js/app~1f98f4b9.33a10be9.js"
   },
   {
-    "revision": "32659e8138c41c49942a",
-    "url": "static/js/app~3bbe1703.99bc604b.js"
+    "revision": "e309dc1dadceacf45c51",
+    "url": "static/js/app~3bbe1703.8eb8546d.js"
   },
   {
-    "revision": "77fd5a78a996ab5c56a0",
-    "url": "static/js/app~5a11b65b.45421763.js"
+    "revision": "ff3f4a9db3e6a91a2642",
+    "url": "static/js/app~5a11b65b.9f15082f.js"
   },
   {
     "revision": "23b8d957b151adc91611",
     "url": "static/js/app~7ac4fe82.8a8825e6.js"
   },
   {
-    "revision": "4fca9bc091a9d354f484",
-    "url": "static/js/app~e2e93592.85c5ca82.js"
+    "revision": "db14d3678b69b3c7f330",
+    "url": "static/js/app~e2e93592.a3ff2e5b.js"
+  },
+  {
+    "revision": "a83661236037c793b43b",
+    "url": "static/js/chunk-045d750a.a42e87d9.js"
   },
   {
     "revision": "3cd6225ec6cb4627e0c1",
@@ -992,10 +996,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/js/chunk-54d3a154.dfdcd0a2.js"
   },
   {
-    "revision": "6e63442dc1ac27929800",
-    "url": "static/js/chunk-55b9c64a.937e8ea0.js"
-  },
-  {
     "revision": "b8d0e88dcd7b59d2b086",
     "url": "static/js/chunk-6272ab3d.a159aed2.js"
   },
@@ -1012,8 +1012,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/js/chunk-7c9c8db1.5dd67503.js"
   },
   {
-    "revision": "ab29d2507ff397bdac20",
-    "url": "static/js/chunk-9aec677e.9c414ca8.js"
+    "revision": "f058753174eafe4eaeb6",
+    "url": "static/js/chunk-9aec677e.509ef3c1.js"
   },
   {
     "revision": "362f7c5b127007febf58",
@@ -1064,8 +1064,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/js/dgiot-libs~d7ac9e7b.4043fba9.js"
   },
   {
-    "revision": "b8bd9c00a094a98235f5",
-    "url": "static/js/dgiot-libs~f6e880b5.0dfa0110.js"
+    "revision": "694c132ab42d7f87a71a",
+    "url": "static/js/dgiot-libs~f6e880b5.672b2204.js"
   },
   {
     "revision": "f0ae831196d55d8f4115b6c5e8ec5384",
