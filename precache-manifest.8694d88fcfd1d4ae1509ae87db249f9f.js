@@ -332,7 +332,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/fuzzy.js"
   },
   {
-    "revision": "cbf6de2f969f5dd6bcbf36e267d4e6bf",
+    "revision": "24b8e1a56175e3ee76f7369ea34644cd",
     "url": "assets/js/index.js"
   },
   {
@@ -784,11 +784,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "images/water/管道直.png"
   },
   {
-    "revision": "052800cdb8dcd697afd31a25a242be2d",
+    "revision": "fa9ee3f38a7bda16d4ac710f364e8753",
     "url": "index.html"
   },
   {
-    "revision": "a1048ebbbd93364fa7cf9499e267d89c",
+    "revision": "a2706d940eed04d9ac28e77445406ab7",
     "url": "manifest.json"
   },
   {
@@ -804,11 +804,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/css/app~1f98f4b9.7efc230f.css"
   },
   {
-    "revision": "e309dc1dadceacf45c51",
+    "revision": "15bb196348af98b6782b",
     "url": "static/css/app~3bbe1703.00d8b1a9.css"
   },
   {
-    "revision": "ff3f4a9db3e6a91a2642",
+    "revision": "245ecffcfa9ae298d942",
     "url": "static/css/app~5a11b65b.26118c85.css"
   },
   {
@@ -818,6 +818,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a83661236037c793b43b",
     "url": "static/css/chunk-045d750a.d9007caa.css"
+  },
+  {
+    "revision": "105273ee1c64290f03ef",
+    "url": "static/css/chunk-13bd8b64.46cbcb8c.css"
   },
   {
     "revision": "3cd6225ec6cb4627e0c1",
@@ -842,10 +846,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "03c8e847f812372b876d",
     "url": "static/css/chunk-727d2861.7b88be98.css"
-  },
-  {
-    "revision": "2b770b888185e44bd2b2",
-    "url": "static/css/chunk-7c9c8db1.e4867b43.css"
   },
   {
     "revision": "362f7c5b127007febf58",
@@ -876,7 +876,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/css/dgiot-libs~d7ac9e7b.53ce9ab9.css"
   },
   {
-    "revision": "694c132ab42d7f87a71a",
+    "revision": "cad7b28065f94cc27bca",
     "url": "static/css/dgiot-libs~f6e880b5.43ba7a2f.css"
   },
   {
@@ -960,24 +960,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/js/app~1f98f4b9.33a10be9.js"
   },
   {
-    "revision": "e309dc1dadceacf45c51",
-    "url": "static/js/app~3bbe1703.8eb8546d.js"
+    "revision": "15bb196348af98b6782b",
+    "url": "static/js/app~3bbe1703.6c4eb4df.js"
   },
   {
-    "revision": "ff3f4a9db3e6a91a2642",
-    "url": "static/js/app~5a11b65b.9f15082f.js"
+    "revision": "245ecffcfa9ae298d942",
+    "url": "static/js/app~5a11b65b.18b20a5f.js"
   },
   {
     "revision": "23b8d957b151adc91611",
     "url": "static/js/app~7ac4fe82.8a8825e6.js"
   },
   {
-    "revision": "db14d3678b69b3c7f330",
-    "url": "static/js/app~e2e93592.a3ff2e5b.js"
+    "revision": "dc4644e79c4c6b6ed068",
+    "url": "static/js/app~e2e93592.52778a57.js"
   },
   {
     "revision": "a83661236037c793b43b",
     "url": "static/js/chunk-045d750a.a42e87d9.js"
+  },
+  {
+    "revision": "105273ee1c64290f03ef",
+    "url": "static/js/chunk-13bd8b64.6f874e62.js"
   },
   {
     "revision": "3cd6225ec6cb4627e0c1",
@@ -1008,12 +1012,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/js/chunk-727d2861.b2222f57.js"
   },
   {
-    "revision": "2b770b888185e44bd2b2",
-    "url": "static/js/chunk-7c9c8db1.5dd67503.js"
-  },
-  {
-    "revision": "f058753174eafe4eaeb6",
-    "url": "static/js/chunk-9aec677e.509ef3c1.js"
+    "revision": "56113648a9d59b88e7d1",
+    "url": "static/js/chunk-9aec677e.02f3fe91.js"
   },
   {
     "revision": "362f7c5b127007febf58",
@@ -1064,8 +1064,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/js/dgiot-libs~d7ac9e7b.4043fba9.js"
   },
   {
-    "revision": "694c132ab42d7f87a71a",
-    "url": "static/js/dgiot-libs~f6e880b5.672b2204.js"
+    "revision": "cad7b28065f94cc27bca",
+    "url": "static/js/dgiot-libs~f6e880b5.46bb626e.js"
   },
   {
     "revision": "f0ae831196d55d8f4115b6c5e8ec5384",
