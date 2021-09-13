@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.d20f9f756214af2a4df20da09cbfb59c.js"
+  "precache-manifest.9f3d4f2368c084c7f2a6345a7b275957.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "dgiot_dashboard"});
