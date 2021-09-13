@@ -332,7 +332,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/fuzzy.js"
   },
   {
-    "revision": "39386cd8b6b43ac965c56bdd621256bb",
+    "revision": "cbf6de2f969f5dd6bcbf36e267d4e6bf",
     "url": "assets/js/index.js"
   },
   {
@@ -784,11 +784,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "images/water/管道直.png"
   },
   {
-    "revision": "983e94345cdc5fecc2c977ec54762128",
+    "revision": "9d0e26673a9eb32ec85b26b6ff728030",
     "url": "index.html"
   },
   {
-    "revision": "8537ff826e9eccb13b5e6958b26eb70e",
+    "revision": "061ee39cd26c8ad07d3da4cf09d320be",
     "url": "manifest.json"
   },
   {
@@ -804,15 +804,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/css/app~1f98f4b9.7efc230f.css"
   },
   {
-    "revision": "890c3c426afc15f65eff",
+    "revision": "3c5f2bbcdf129815b0bb",
     "url": "static/css/app~3bbe1703.00d8b1a9.css"
   },
   {
-    "revision": "3c96297c7d68eda25f77",
+    "revision": "3c1c0d1f63d11b410786",
     "url": "static/css/app~5a11b65b.510b952b.css"
   },
   {
-    "revision": "f8798065d4e558b91a72",
+    "revision": "ad82da39289320d9b8d5",
     "url": "static/css/app~7ac4fe82.db24de53.css"
   },
   {
@@ -828,8 +828,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/css/chunk-27f26c2e.34a89596.css"
   },
   {
-    "revision": "77eddeaa32f87b5d20f7",
-    "url": "static/css/chunk-3739d3da.37413c98.css"
+    "revision": "fa93f7505b6b3bbe74b3",
+    "url": "static/css/chunk-2e4fedf2.961071bb.css"
   },
   {
     "revision": "37ce978e21bd19cf1d62",
@@ -876,7 +876,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/css/dgiot-libs~d7ac9e7b.53ce9ab9.css"
   },
   {
-    "revision": "6321b747138942718180",
+    "revision": "5de72e3af8b61a62a461",
     "url": "static/css/dgiot-libs~f6e880b5.43ba7a2f.css"
   },
   {
@@ -960,20 +960,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/js/app~1f98f4b9.33a10be9.js"
   },
   {
-    "revision": "890c3c426afc15f65eff",
-    "url": "static/js/app~3bbe1703.4ee133f1.js"
+    "revision": "3c5f2bbcdf129815b0bb",
+    "url": "static/js/app~3bbe1703.145813f8.js"
   },
   {
-    "revision": "3c96297c7d68eda25f77",
-    "url": "static/js/app~5a11b65b.76e7e2d2.js"
+    "revision": "3c1c0d1f63d11b410786",
+    "url": "static/js/app~5a11b65b.6d0071e3.js"
   },
   {
-    "revision": "f8798065d4e558b91a72",
-    "url": "static/js/app~7ac4fe82.040e8b63.js"
+    "revision": "ad82da39289320d9b8d5",
+    "url": "static/js/app~7ac4fe82.44140ef6.js"
   },
   {
-    "revision": "c52d1477a1d5b57aa349",
-    "url": "static/js/app~e2e93592.fe647238.js"
+    "revision": "6190151662dc215c3c9a",
+    "url": "static/js/app~e2e93592.29b72aee.js"
   },
   {
     "revision": "e6f5e19d036cf28241ec",
@@ -988,8 +988,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/js/chunk-27f26c2e.af0cad5c.js"
   },
   {
-    "revision": "77eddeaa32f87b5d20f7",
-    "url": "static/js/chunk-3739d3da.991f61a5.js"
+    "revision": "fa93f7505b6b3bbe74b3",
+    "url": "static/js/chunk-2e4fedf2.8d40f2d8.js"
   },
   {
     "revision": "37ce978e21bd19cf1d62",
@@ -1008,8 +1008,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/js/chunk-727d2861.b2222f57.js"
   },
   {
-    "revision": "3ebd83c497cc525f1aae",
-    "url": "static/js/chunk-9aec677e.78ce464e.js"
+    "revision": "51a4c1ba0acfc0d1473e",
+    "url": "static/js/chunk-9aec677e.a4e6f88f.js"
   },
   {
     "revision": "e7fc4272fc878e58a8cc",
@@ -1064,8 +1064,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/js/dgiot-libs~d7ac9e7b.4043fba9.js"
   },
   {
-    "revision": "6321b747138942718180",
-    "url": "static/js/dgiot-libs~f6e880b5.9c43bd57.js"
+    "revision": "5de72e3af8b61a62a461",
+    "url": "static/js/dgiot-libs~f6e880b5.09130a80.js"
   },
   {
     "revision": "f0ae831196d55d8f4115b6c5e8ec5384",
