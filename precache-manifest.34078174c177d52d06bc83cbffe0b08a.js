@@ -784,11 +784,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "images/water/管道直.png"
   },
   {
-    "revision": "22297b9bae912d2e96619014c2ea2baf",
+    "revision": "1e4458a9889bf437773c2733b06b01d5",
     "url": "index.html"
   },
   {
-    "revision": "196c87222cce17e669f81604883cb8a0",
+    "revision": "287885f0ae02a0328e919ecf52d42c36",
     "url": "manifest.json"
   },
   {
@@ -804,11 +804,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/css/app~1f98f4b9.7efc230f.css"
   },
   {
-    "revision": "ae5f9dc6873474d952aa",
+    "revision": "2ee508c223de4583b8f7",
     "url": "static/css/app~3bbe1703.00d8b1a9.css"
   },
   {
-    "revision": "2551d9312adf40a27a1d",
+    "revision": "65f3a097b7956e91e8dc",
     "url": "static/css/app~5a11b65b.510b952b.css"
   },
   {
@@ -828,12 +828,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/css/chunk-3739d3da.37413c98.css"
   },
   {
-    "revision": "251e19908c6d9178f612",
-    "url": "static/css/chunk-47aa4645.3c403e58.css"
-  },
-  {
     "revision": "37ce978e21bd19cf1d62",
     "url": "static/css/chunk-487c6778.36a2412e.css"
+  },
+  {
+    "revision": "1b59ab0c30ff18a91fdf",
+    "url": "static/css/chunk-493d1c86.87d45625.css"
   },
   {
     "revision": "107982240a8c9f5e309c",
@@ -876,7 +876,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/css/dgiot-libs~d7ac9e7b.53ce9ab9.css"
   },
   {
-    "revision": "cff1fad757a3f412b6ef",
+    "revision": "b319821eca4d3a4ad69b",
     "url": "static/css/dgiot-libs~f6e880b5.43ba7a2f.css"
   },
   {
@@ -960,20 +960,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/js/app~1f98f4b9.33a10be9.js"
   },
   {
-    "revision": "ae5f9dc6873474d952aa",
-    "url": "static/js/app~3bbe1703.744ce761.js"
+    "revision": "2ee508c223de4583b8f7",
+    "url": "static/js/app~3bbe1703.7f8d3d25.js"
   },
   {
-    "revision": "2551d9312adf40a27a1d",
-    "url": "static/js/app~5a11b65b.53cec2f7.js"
+    "revision": "65f3a097b7956e91e8dc",
+    "url": "static/js/app~5a11b65b.baecdd52.js"
   },
   {
     "revision": "f8798065d4e558b91a72",
     "url": "static/js/app~7ac4fe82.040e8b63.js"
   },
   {
-    "revision": "35a71ef457bfa3fd3ebd",
-    "url": "static/js/app~e2e93592.7fbeb9ca.js"
+    "revision": "e82d1e533280e54e60d3",
+    "url": "static/js/app~e2e93592.093070b6.js"
   },
   {
     "revision": "e6f5e19d036cf28241ec",
@@ -988,12 +988,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/js/chunk-3739d3da.991f61a5.js"
   },
   {
-    "revision": "251e19908c6d9178f612",
-    "url": "static/js/chunk-47aa4645.41c71370.js"
-  },
-  {
     "revision": "37ce978e21bd19cf1d62",
     "url": "static/js/chunk-487c6778.2f50f833.js"
+  },
+  {
+    "revision": "1b59ab0c30ff18a91fdf",
+    "url": "static/js/chunk-493d1c86.848f04cb.js"
   },
   {
     "revision": "107982240a8c9f5e309c",
@@ -1008,8 +1008,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/js/chunk-727d2861.b2222f57.js"
   },
   {
-    "revision": "873f802ec15b9866576c",
-    "url": "static/js/chunk-9aec677e.c584e932.js"
+    "revision": "f1436d1da75910e2647e",
+    "url": "static/js/chunk-9aec677e.7e83fc2d.js"
   },
   {
     "revision": "e7fc4272fc878e58a8cc",
@@ -1064,8 +1064,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "static/js/dgiot-libs~d7ac9e7b.4043fba9.js"
   },
   {
-    "revision": "cff1fad757a3f412b6ef",
-    "url": "static/js/dgiot-libs~f6e880b5.effc3310.js"
+    "revision": "b319821eca4d3a4ad69b",
+    "url": "static/js/dgiot-libs~f6e880b5.da98782f.js"
   },
   {
     "revision": "f0ae831196d55d8f4115b6c5e8ec5384",
