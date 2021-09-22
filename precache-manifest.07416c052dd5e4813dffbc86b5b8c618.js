@@ -9,103 +9,103 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "c7f362f8bfd96f7cdc1b",
-    "url": "assets/css/app-dgiot-272b6889.dgiot.css?v=4.3.3&t=1631952744729"
+    "url": "assets/css/app-dgiot-272b6889.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "60db4f0155dc49e01c6d",
-    "url": "assets/css/app-dgiot-3bbe1703.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "61706601e3fe7ef3884a",
+    "url": "assets/css/app-dgiot-3bbe1703.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "aeabb949377cb068e02c",
-    "url": "assets/css/app-dgiot-3f1629e8.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "ecb3c7813f1707eb5b08",
+    "url": "assets/css/app-dgiot-3f1629e8.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
     "revision": "011d56feaa503eb17115",
-    "url": "assets/css/app-dgiot-770f6a8c.dgiot.css?v=4.3.3&t=1631952744729"
+    "url": "assets/css/app-dgiot-770f6a8c.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "b8af59f417a92e05347f",
-    "url": "assets/css/app-dgiot-87dc44b3.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "c2b4d411ff996949266f",
+    "url": "assets/css/app-dgiot-87dc44b3.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "bd7a88d94b48191d1f4c",
-    "url": "assets/css/app-dgiot-a9a5b412.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "0bc6c8a0fce8992c7521",
+    "url": "assets/css/app-dgiot-a9a5b412.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "2cba31bbc9047e57c7ab",
-    "url": "assets/css/chunk-060d0723.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "8dbe8d4da82774c84127",
+    "url": "assets/css/chunk-060d0723.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "3897a0aa18f028b82bf8",
-    "url": "assets/css/chunk-174115ee.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "84bf44e64d771b2f43e0",
+    "url": "assets/css/chunk-174115ee.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "48deee8d1575303f4480",
-    "url": "assets/css/chunk-2c305244.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "d55b64b7e59f878bdc3c",
+    "url": "assets/css/chunk-2c305244.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "403f51928fc2db8cdbc2",
-    "url": "assets/css/chunk-2e645c30.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "ff7f77d835e53a01581f",
+    "url": "assets/css/chunk-2e645c30.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "5113128dd7b2368a5af2",
-    "url": "assets/css/chunk-301fbff8.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "941b55de6bc22adddb3d",
+    "url": "assets/css/chunk-301fbff8.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "76d4546ba68d70a36bac",
-    "url": "assets/css/chunk-3ed730aa.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "a8ab7a83393f351b870f",
+    "url": "assets/css/chunk-3ed730aa.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "b8d2a533a3e2af1b94f7",
-    "url": "assets/css/chunk-43d44806.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "0f6406319dc0296b773c",
+    "url": "assets/css/chunk-43d44806.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "5fe04393b3e9f73dccdd",
-    "url": "assets/css/chunk-480f5486.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "1729c75e9dcf82e1e8c9",
+    "url": "assets/css/chunk-480f5486.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "d5120391a39ff10381d2",
-    "url": "assets/css/chunk-577a4de0.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "8ccd6021eb85daf0e564",
+    "url": "assets/css/chunk-577a4de0.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "c7be8a2b9a4583d1e8a7",
-    "url": "assets/css/chunk-5d5b652d.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "edeb57dcecf86bdd5295",
+    "url": "assets/css/chunk-5df215f9.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "03db121259a21d1e9a8b",
-    "url": "assets/css/chunk-5df215f9.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "a9bfd3a9b1c4fd049c56",
+    "url": "assets/css/chunk-6102ad7c.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "62c0d54f1171638ada15",
-    "url": "assets/css/chunk-6102ad7c.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "cdf60d651bcabd88c653",
+    "url": "assets/css/chunk-78349f04.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "91e357ab38b6d43d6a5b",
-    "url": "assets/css/chunk-78349f04.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "c854de4d9cdeb706b58a",
+    "url": "assets/css/chunk-8cd41e50.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "1c26f1739800cfdde53e",
-    "url": "assets/css/chunk-a123ab6a.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "653df414c7c4fa15ed3d",
+    "url": "assets/css/chunk-a123ab6a.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "4ae5347baf2e87368f6d",
-    "url": "assets/css/chunk-a4b0e0c0.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "09ca0266b9424b4d69da",
+    "url": "assets/css/chunk-a4b0e0c0.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "7c94d9c400f0b7c3cdd6",
-    "url": "assets/css/chunk-b0a21b48.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "c2c0a59492cba8227527",
+    "url": "assets/css/chunk-b0a21b48.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
     "revision": "bcbddf39567993f72826",
-    "url": "assets/css/chunk-f9cc3182.dgiot.css?v=4.3.3&t=1631952744729"
+    "url": "assets/css/chunk-f9cc3182.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "df73ad69f38d8778c0e7",
-    "url": "assets/css/chunk-fa2c52b8.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "734ef735d5137db8f24e",
+    "url": "assets/css/chunk-fa2c52b8.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "1ac80f8148df99cb5baa",
-    "url": "assets/css/chunk-fe338680.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "50db56ed67a21a5da699",
+    "url": "assets/css/chunk-fe338680.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
     "revision": "db781048fb310ce33990e10fd3b6e57e",
@@ -117,7 +117,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "fdbfab5f79a7ee88023a",
-    "url": "assets/css/element-dgiot-793f9119.dgiot.css?v=4.3.3&t=1631952744729"
+    "url": "assets/css/element-dgiot-793f9119.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
     "revision": "a3db055a2cba4ce9699750fea087d0dc",
@@ -141,31 +141,31 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "bd8fdeba542f2745a50f",
-    "url": "assets/css/libs-dgiot-1f0570fa.dgiot.css?v=4.3.3&t=1631952744729"
+    "url": "assets/css/libs-dgiot-1f0570fa.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
     "revision": "d41ce1b4cc9c2036ea38",
-    "url": "assets/css/libs-dgiot-78e42d74.dgiot.css?v=4.3.3&t=1631952744729"
+    "url": "assets/css/libs-dgiot-78e42d74.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
     "revision": "7827198a8a15ff13469a",
-    "url": "assets/css/libs-dgiot-7f323393.dgiot.css?v=4.3.3&t=1631952744729"
+    "url": "assets/css/libs-dgiot-7f323393.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
     "revision": "dd8595c1134568051e02",
-    "url": "assets/css/libs-dgiot-9c5b28f6.dgiot.css?v=4.3.3&t=1631952744729"
+    "url": "assets/css/libs-dgiot-9c5b28f6.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "d8adcd576cda9e517167",
-    "url": "assets/css/libs-dgiot-ec8c427e.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "e3e64f1e3fde27db257e",
+    "url": "assets/css/libs-dgiot-ec8c427e.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
-    "revision": "68062bfaf2b7180dfe8c",
-    "url": "assets/css/libs-dgiot-f6e880b5.dgiot.css?v=4.3.3&t=1631952744729"
+    "revision": "3fffed84340a7b259e51",
+    "url": "assets/css/libs-dgiot-f6e880b5.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
     "revision": "00178965186f47efdb15",
-    "url": "assets/css/libs-dgiot-f7d19227.dgiot.css?v=4.3.3&t=1631952744729"
+    "url": "assets/css/libs-dgiot-f7d19227.dgiot.css?v=4.3.3&t=1632278346158"
   },
   {
     "revision": "e19d6c07c3e48c0c5eda73b43fd95e67",
@@ -233,7 +233,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "39677f6295910bc9cd208db373ab6056",
-    "url": "assets/images/fengji.dgiot.png?v=4.3.3&t=1631952745608"
+    "url": "assets/images/fengji.dgiot.png?v=4.3.3&t=1632278347188"
   },
   {
     "revision": "39677f6295910bc9cd208db373ab6056",
@@ -241,7 +241,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "6f2aa68b3950957bcf0a32a03639f22c",
-    "url": "assets/images/fj_base.dgiot.png?v=4.3.3&t=1631952745608"
+    "url": "assets/images/fj_base.dgiot.png?v=4.3.3&t=1632278347188"
   },
   {
     "revision": "6f2aa68b3950957bcf0a32a03639f22c",
@@ -249,7 +249,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "79082c1d2e92feebf8659c44015c08ca",
-    "url": "assets/images/fj_normal.dgiot.png?v=4.3.3&t=1631952745608"
+    "url": "assets/images/fj_normal.dgiot.png?v=4.3.3&t=1632278347188"
   },
   {
     "revision": "79082c1d2e92feebf8659c44015c08ca",
@@ -257,7 +257,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "ac34c0ce746f25a2504be7f7236ab7f2",
-    "url": "assets/images/floor.dgiot.png?v=4.3.3&t=1631952745608"
+    "url": "assets/images/floor.dgiot.png?v=4.3.3&t=1632278347188"
   },
   {
     "revision": "245a6e5837d8371dc0e2075db4698410",
@@ -525,7 +525,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "243e406998a78342970246b761011814",
-    "url": "assets/images/logo.dgiot.png?v=4.3.3&t=1631952745608"
+    "url": "assets/images/logo.dgiot.png?v=4.3.3&t=1632278347188"
   },
   {
     "revision": "243e406998a78342970246b761011814",
@@ -541,7 +541,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "ac55a42f3b0991ca1ec0f7159525d543",
-    "url": "assets/images/title.dgiot.jpg?v=4.3.3&t=1631952745608"
+    "url": "assets/images/title.dgiot.jpg?v=4.3.3&t=1632278347188"
   },
   {
     "revision": "8ca2ad45ac1f8a6d9cde985ccd2ee33f",
@@ -593,27 +593,27 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "82b9c7a5a3f405032b1db71a25f67021",
-    "url": "assets/images/yohuo.dgiot.png?v=4.3.3&t=1631952745608"
+    "url": "assets/images/yohuo.dgiot.png?v=4.3.3&t=1632278347188"
   },
   {
     "revision": "5b084e70f7145e5f70738db479be946a",
-    "url": "assets/images/冷却器.dgiot.png?v=4.3.3&t=1631952745608"
+    "url": "assets/images/冷却器.dgiot.png?v=4.3.3&t=1632278347188"
   },
   {
     "revision": "c06393aff538a70db699bf5a5604119f",
-    "url": "assets/images/冷却塔.dgiot.png?v=4.3.3&t=1631952745608"
+    "url": "assets/images/冷却塔.dgiot.png?v=4.3.3&t=1632278347188"
   },
   {
     "revision": "de3c21cd43d40d1fab72e4e54e93bb61",
-    "url": "assets/images/接头弯.dgiot.png?v=4.3.3&t=1631952745608"
+    "url": "assets/images/接头弯.dgiot.png?v=4.3.3&t=1632278347188"
   },
   {
     "revision": "d2f462ecd494a4c2f9c95c7561bc2f3d",
-    "url": "assets/images/水阀.dgiot.png?v=4.3.3&t=1631952745608"
+    "url": "assets/images/水阀.dgiot.png?v=4.3.3&t=1632278347188"
   },
   {
     "revision": "67d225fb61204a32be23fd524267e7c1",
-    "url": "assets/images/消化池.dgiot.png?v=4.3.3&t=1631952745608"
+    "url": "assets/images/消化池.dgiot.png?v=4.3.3&t=1632278347188"
   },
   {
     "revision": "349c8aca9d3d0518362d1982d08f1a0f",
@@ -657,35 +657,35 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "c7f362f8bfd96f7cdc1b",
-    "url": "assets/js/app-dgiot-272b6889.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/app-dgiot-272b6889.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "60db4f0155dc49e01c6d",
-    "url": "assets/js/app-dgiot-3bbe1703.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "61706601e3fe7ef3884a",
+    "url": "assets/js/app-dgiot-3bbe1703.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "aeabb949377cb068e02c",
-    "url": "assets/js/app-dgiot-3f1629e8.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "ecb3c7813f1707eb5b08",
+    "url": "assets/js/app-dgiot-3f1629e8.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "011d56feaa503eb17115",
-    "url": "assets/js/app-dgiot-770f6a8c.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/app-dgiot-770f6a8c.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "b8af59f417a92e05347f",
-    "url": "assets/js/app-dgiot-87dc44b3.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "c2b4d411ff996949266f",
+    "url": "assets/js/app-dgiot-87dc44b3.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "bd7a88d94b48191d1f4c",
-    "url": "assets/js/app-dgiot-a9a5b412.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "0bc6c8a0fce8992c7521",
+    "url": "assets/js/app-dgiot-a9a5b412.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "5b51e6bac61ae3b238c4",
-    "url": "assets/js/app-dgiot-c714bc7b.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "4f698350e469876ef80d",
+    "url": "assets/js/app-dgiot-c714bc7b.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "a7462631980c93ec0592",
-    "url": "assets/js/app-dgiot-e2e93592.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "0e80bd9022aaf2a8f7f3",
+    "url": "assets/js/app-dgiot-e2e93592.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "d9f52f9e33646cc00c8b08957c9f5598",
@@ -728,104 +728,104 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/bugtags-2.0.2.js.gz"
   },
   {
-    "revision": "2cba31bbc9047e57c7ab",
-    "url": "assets/js/chunk-060d0723.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "8dbe8d4da82774c84127",
+    "url": "assets/js/chunk-060d0723.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "f0f1ffba29efce3b3894",
-    "url": "assets/js/chunk-0da3ab11.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "e86e09902ab191484d9e",
+    "url": "assets/js/chunk-0da3ab11.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "3897a0aa18f028b82bf8",
-    "url": "assets/js/chunk-174115ee.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "84bf44e64d771b2f43e0",
+    "url": "assets/js/chunk-174115ee.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "48deee8d1575303f4480",
-    "url": "assets/js/chunk-2c305244.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "d55b64b7e59f878bdc3c",
+    "url": "assets/js/chunk-2c305244.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "4257081a1d0d3cff075a",
-    "url": "assets/js/chunk-2e46bccc.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/chunk-2e46bccc.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "403f51928fc2db8cdbc2",
-    "url": "assets/js/chunk-2e645c30.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "ff7f77d835e53a01581f",
+    "url": "assets/js/chunk-2e645c30.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "5113128dd7b2368a5af2",
-    "url": "assets/js/chunk-301fbff8.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "941b55de6bc22adddb3d",
+    "url": "assets/js/chunk-301fbff8.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "76d4546ba68d70a36bac",
-    "url": "assets/js/chunk-3ed730aa.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "a8ab7a83393f351b870f",
+    "url": "assets/js/chunk-3ed730aa.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "b8d2a533a3e2af1b94f7",
-    "url": "assets/js/chunk-43d44806.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "0f6406319dc0296b773c",
+    "url": "assets/js/chunk-43d44806.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "eb9658dd3192b4726b47",
-    "url": "assets/js/chunk-44e64465.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/chunk-44e64465.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "5fe04393b3e9f73dccdd",
-    "url": "assets/js/chunk-480f5486.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "1729c75e9dcf82e1e8c9",
+    "url": "assets/js/chunk-480f5486.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "d5120391a39ff10381d2",
-    "url": "assets/js/chunk-577a4de0.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "8ccd6021eb85daf0e564",
+    "url": "assets/js/chunk-577a4de0.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "c7be8a2b9a4583d1e8a7",
-    "url": "assets/js/chunk-5d5b652d.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "edeb57dcecf86bdd5295",
+    "url": "assets/js/chunk-5df215f9.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "03db121259a21d1e9a8b",
-    "url": "assets/js/chunk-5df215f9.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "a9bfd3a9b1c4fd049c56",
+    "url": "assets/js/chunk-6102ad7c.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "62c0d54f1171638ada15",
-    "url": "assets/js/chunk-6102ad7c.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "ee1f01c383d58eab62b9",
+    "url": "assets/js/chunk-61cf48af.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "7423d4e686b3f33df902",
-    "url": "assets/js/chunk-61cf48af.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "cdf60d651bcabd88c653",
+    "url": "assets/js/chunk-78349f04.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "91e357ab38b6d43d6a5b",
-    "url": "assets/js/chunk-78349f04.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "c854de4d9cdeb706b58a",
+    "url": "assets/js/chunk-8cd41e50.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "1c26f1739800cfdde53e",
-    "url": "assets/js/chunk-a123ab6a.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "653df414c7c4fa15ed3d",
+    "url": "assets/js/chunk-a123ab6a.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "4ae5347baf2e87368f6d",
-    "url": "assets/js/chunk-a4b0e0c0.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "09ca0266b9424b4d69da",
+    "url": "assets/js/chunk-a4b0e0c0.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "7c94d9c400f0b7c3cdd6",
-    "url": "assets/js/chunk-b0a21b48.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "c2c0a59492cba8227527",
+    "url": "assets/js/chunk-b0a21b48.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "3092b4a36407c0802d16",
-    "url": "assets/js/chunk-dbdcd742.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/chunk-dbdcd742.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "177e038145a531618a14",
-    "url": "assets/js/chunk-f6c538e8.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/chunk-f6c538e8.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "bcbddf39567993f72826",
-    "url": "assets/js/chunk-f9cc3182.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/chunk-f9cc3182.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "df73ad69f38d8778c0e7",
-    "url": "assets/js/chunk-fa2c52b8.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "734ef735d5137db8f24e",
+    "url": "assets/js/chunk-fa2c52b8.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "1ac80f8148df99cb5baa",
-    "url": "assets/js/chunk-fe338680.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "50db56ed67a21a5da699",
+    "url": "assets/js/chunk-fe338680.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "27784b7376dd992368c71b6c5559f358",
@@ -836,7 +836,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/clipboard.min.js.gz"
   },
   {
-    "revision": "f8b51ee33b9ee72250c8c034462972f3",
+    "revision": "c0b45605efc5acf730bdbb602d84424f",
     "url": "assets/js/codemirror.js"
   },
   {
@@ -860,7 +860,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/echarts-amap.min.js"
   },
   {
-    "revision": "a6f348dadbb82bdfb5cf3b5fadf8b178",
+    "revision": "91735d59cc5e509d4326a531dabcbedc",
     "url": "assets/js/echarts.min.js"
   },
   {
@@ -869,11 +869,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "1c10c6abe8e53c45e9ef",
-    "url": "assets/js/element-dgiot-29452fcc.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/element-dgiot-29452fcc.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "fdbfab5f79a7ee88023a",
-    "url": "assets/js/element-dgiot-793f9119.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/element-dgiot-793f9119.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "4bc254da720f032a95a943a02cdedb7c",
@@ -1009,59 +1009,59 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "bd8fdeba542f2745a50f",
-    "url": "assets/js/libs-dgiot-1f0570fa.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/libs-dgiot-1f0570fa.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "6d74e8b8cfa9a6adfd3c",
-    "url": "assets/js/libs-dgiot-253ae210.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/libs-dgiot-253ae210.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "d41ce1b4cc9c2036ea38",
-    "url": "assets/js/libs-dgiot-78e42d74.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/libs-dgiot-78e42d74.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "e13b41e3cc527aa8ec08",
-    "url": "assets/js/libs-dgiot-7d359b94.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/libs-dgiot-7d359b94.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "7827198a8a15ff13469a",
-    "url": "assets/js/libs-dgiot-7f323393.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/libs-dgiot-7f323393.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "c4887dfbc398dbec9f88",
-    "url": "assets/js/libs-dgiot-80993005.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/libs-dgiot-80993005.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "a2bf6cb9259a4f1498d0",
-    "url": "assets/js/libs-dgiot-85a20469.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/libs-dgiot-85a20469.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "018f8bc10663a45de04b",
-    "url": "assets/js/libs-dgiot-86ffeb1a.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/libs-dgiot-86ffeb1a.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "dd8595c1134568051e02",
-    "url": "assets/js/libs-dgiot-9c5b28f6.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/libs-dgiot-9c5b28f6.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "d8adcd576cda9e517167",
-    "url": "assets/js/libs-dgiot-ec8c427e.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "e3e64f1e3fde27db257e",
+    "url": "assets/js/libs-dgiot-ec8c427e.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "68062bfaf2b7180dfe8c",
-    "url": "assets/js/libs-dgiot-f6e880b5.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "3fffed84340a7b259e51",
+    "url": "assets/js/libs-dgiot-f6e880b5.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "00178965186f47efdb15",
-    "url": "assets/js/libs-dgiot-f7d19227.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/libs-dgiot-f7d19227.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "0f6d6e55f2c1870779ab",
-    "url": "assets/js/libs-dgiot-f9ca8911.dgiot.js?v=4.3.3&t=1631952745629"
+    "url": "assets/js/libs-dgiot-f9ca8911.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
-    "revision": "df54553e0c2ecf6f4f28",
-    "url": "assets/js/libs-dgiot-fc2f81ef.dgiot.js?v=4.3.3&t=1631952745629"
+    "revision": "a4d4f91a15e35b04d233",
+    "url": "assets/js/libs-dgiot-fc2f81ef.dgiot.js?v=4.3.3&t=1632278347212"
   },
   {
     "revision": "9becc40fb1d85d21d0ca38e2f7069511",
@@ -1180,7 +1180,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/resize-observer-polyfill.js.gz"
   },
   {
-    "revision": "13b69ea886071441a462505991cc037f",
+    "revision": "d775e748080bdd040a6c24784e2dc522",
     "url": "assets/js/rutilsjs.js"
   },
   {
@@ -1212,7 +1212,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/topology-vue.umd.min.js.gz"
   },
   {
-    "revision": "0b5fab92ba476338e37149ceed65558a",
+    "revision": "0b4441f163c5e7bfd71663dab5983488",
     "url": "assets/js/vditor.js"
   },
   {
@@ -1340,11 +1340,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/js/xterm.js.gz"
   },
   {
-    "revision": "50434b935d3db7e8d6cc920df081a063",
+    "revision": "275be4d54881972b0e31cfd5e35ae771",
     "url": "index.html"
   },
   {
-    "revision": "2f11c032f6449396e2993f3373a370c0",
+    "revision": "ac515c9dea90e4a89924955369a8e4e5",
     "url": "manifest.json"
   },
   {
